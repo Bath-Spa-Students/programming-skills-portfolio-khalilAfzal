@@ -1,8 +1,4 @@
 name="\chauwdry shahab\n"
 print(name)
-
-print(name.lstrip())
-
-print(name.rstrip())
-
-print(name.strip())
+multiple_name= name *5
+print(multiple_name)
